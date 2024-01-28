@@ -1,6 +1,22 @@
 body
 {
-    color: blueviolet;
-    text-align: center;
+    color: navy;
+    text-align: left;
     font-family: "Arial";
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+}
+
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #ddd;
+}
+
+#container h1
+{
+    font-size: 20px;
 }
